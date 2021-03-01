@@ -1,0 +1,12 @@
+.page-title {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.form-container {
+  width: 400px;
+  margin: auto;
+}
+.ui.red.button:focus,
+.ui.red.buttons .button:focus {
+  background-color: red;
+}
